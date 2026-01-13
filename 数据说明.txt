@@ -1,0 +1,11 @@
+data_id 为样本索引
+user_id 为用户索引，每同一个人会重复三次数据采集
+user_height身高
+user_weight体重
+unique_code为采样索引，同一个人会采集三次，那么会有三个不同的unique_code，同一个unique_code
+下有100帧数据总计20s，作为时序数据。
+posture_type 0代表正坐
+m_mhg为所有传感器数据总和
+m_data为采样的数据矩阵，之前解释过
+
+
