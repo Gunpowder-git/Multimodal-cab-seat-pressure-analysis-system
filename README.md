@@ -119,4 +119,4 @@ Author : He Jiale @ Tongji University
 本项目为驾驶室座椅压力分析研究项目，用于支持相关学术研究和产品开发。
 
 ## 许可证
-MIT License
+Apache 2.0
